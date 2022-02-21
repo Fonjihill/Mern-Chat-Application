@@ -30,4 +30,4 @@ $Mern-Chat-Application/ npm install
 * https://github.com/Fonjihill
 
 # Visit My Portfolio
-*https://fonji-portfolio.netlify.app/
+*https://fonjiterence.netlify.app/
